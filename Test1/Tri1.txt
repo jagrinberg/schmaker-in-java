@@ -1,0 +1,249 @@
+AR306 Darkroom Photography	H24	Trimester 1
+AR320 Drawing	G135L	Trimester 1
+AR320 Drawing	H24	Trimester 1
+AR322 Painting	E12L4	Trimester 1
+AR324 Art and Technology	C13L	Trimester 1
+AS403a Writing & Amer Studies	A12L345	Trimester 1
+AS403a Writing & Amer Studies	B1234L5	Trimester 1
+AS403a Writing & Amer Studies	C123L45	Trimester 1
+AS405a American Studies	B1234L5	Trimester 1
+AS405a American Studies	B1234L5	Trimester 1
+AS405a American Studies	C123L45	Trimester 1
+AS405a American Studies	C123L45	Trimester 1
+AS405a American Studies	D12345L	Trimester 1
+AS405a American Studies	E12L345	Trimester 1
+AS405a American Studies	F1234L5	Trimester 1
+AS405a American Studies	G12345L	Trimester 1
+AS405a American Studies	G12345L	Trimester 1
+AS405a American Studies	A12L345	Trimester 1
+AS405a American Studies	A12L345	Trimester 1
+AS405a American Studies	D12345L	Trimester 1
+AS405a American Studies	F1234L5	Trimester 1
+AS405a American Studies	E12L345	Trimester 1
+AS405a American Studies	A12L345	Trimester 1
+AS405a American Studies	E12L345	Trimester 1
+AS405a American Studies	D12345L	Trimester 1
+AS405a American Studies	B1234L5	Trimester 1
+BI352 Anatomy & Physiology I	D12345L	Trimester 1
+BI352 Anatomy & Physiology I	G12345L	Trimester 1
+BI358 Classical Genetics (*M*)	D1345L	Trimester 1
+BI360 Molecular Genetics (*M*)	B234L5	Trimester 1
+BI364 Developmental Biology (*R*)	A2L345	Trimester 1
+BI364 Developmental Biology (*R*)	E2L345	Trimester 1
+BI374 Ecology (*R*)	D12345L	Trimester 1
+BI374 Ecology (*R*)	G12345L	Trimester 1
+BI374 Ecology (*R*)	F1234L5	Trimester 1
+BI390 Res Exp-Biology (*R*)	C13L45	Trimester 1
+BI404 Climate Change Biology (*M*)	E12L45	Trimester 1
+BI404 Climate Change Biology (*M*)	C13L45	Trimester 1
+BI434 AP Biology (I) (*R*)	B1234L	Trimester 1
+BI434 AP Biology (I) (*R*)	D1235L	Trimester 1
+BI434 AP Biology (I) (*R*)	F1234L	Trimester 1
+BI446 Research in Biology III (*R*)	F124L5G1245L	Trimester 1
+BI446 Research in Biology III (*R*)	F124L5G1245L	Trimester 1
+CH305a Chemistry by Inquiry	D12345L	Trimester 1
+CH353a Chemistry	E12L345	Trimester 1
+CH353a Chemistry	F1234L5	Trimester 1
+CH353a Chemistry	B1234L5	Trimester 1
+CH353a Chemistry	A12L345	Trimester 1
+CH401a AP Chemistry (I)	A12L345	Trimester 1
+CH401a AP Chemistry (I)	B1234L5	Trimester 1
+CH401a AP Chemistry (I)	C123L45	Trimester 1
+CH401a AP Chemistry (I)	F1234L5	Trimester 1
+CH401a AP Chemistry (I)	D12345L	Trimester 1
+CH401a AP Chemistry (I)	G12345L	Trimester 1
+CH401a AP Chemistry (I)	E12L345	Trimester 1
+CH405a AP Chemistry (Adv I)	A12L345	Trimester 1
+CH405a AP Chemistry (Adv I)	E12L345	Trimester 1
+CH405a AP Chemistry (Adv I)	C123L45	Trimester 1
+CH410 Organic Chemistry	E12L345	Trimester 1
+CH410 Organic Chemistry	A12L345	Trimester 1
+CH418 Biochemistry (*R*)	B1234L5	Trimester 1
+CH446 Research Chem III (*R*)	F124L5G1245L	Trimester 1
+CH446 Research Chem III (*R*)	F124L5G1245L	Trimester 1
+CN305a Introductory Chinese	C1234	Trimester 1
+CN305a Introductory Chinese	B1234	Trimester 1
+CN307a Intermediate Chinese	C123L4	Trimester 1
+CN307a Intermediate Chinese	B1234L	Trimester 1
+CN354 Advanced Chinese I	A12L345	Trimester 1
+CN404 Readings in Chinese/Topics I	A12L345	Trimester 1
+CN454 Advanced Readings in Chinese/Topics I	A12L345	Trimester 1
+CS362 Connected Computing	D135L	Trimester 1
+CS402 Web Development	C123L4	Trimester 1
+CS402 Web Development	E12L34	Trimester 1
+CS406 Scientific Programming	F1234L	Trimester 1
+CS422 Databases	E12L34	Trimester 1
+CS424 Procedural Programming	B1234L	Trimester 1
+CS424 Procedural Programming	F1234L	Trimester 1
+CS434 C	A12L34	Trimester 1
+DR302 Theater Perf Wrkshp	H3	Trimester 1
+EE316 Introductory Robotics	D1235L	Trimester 1
+EE318 Fundamentals of Engineering	B124L5	Trimester 1
+EE402 Electrical Engineering	D1235L	Trimester 1
+EE402 Electrical Engineering	F1234L	Trimester 1
+EE404 Architecture	E12L34	Trimester 1
+EE408 Biomedical Engineering	C13L45	Trimester 1
+EE408 Biomedical Engineering	B124L5	Trimester 1
+EE418 Environmental Engineering	C13L45	Trimester 1
+EN400 East-West Studies I	G1235L	Trimester 1
+EN412 Southern Lit/Culture	B124L	Trimester 1
+EN416 Asia I	E2L345	Trimester 1
+EN416 Asia I	A2L345	Trimester 1
+EN422 Philos/Lit in 20th Century	I24	Trimester 1
+EN424 Africa I	D1235L	Trimester 1
+EN436 Western Euro Cultural Stu I	I13	Trimester 1
+EN442 Western Civilization: WRRD I	D1235L	Trimester 1
+EN448 Topics in Literature I	B124L	Trimester 1
+EN460 STEM and the Stage	G135L	Trimester 1
+EN490 Res in the Humanities I	H13	Trimester 1
+EN490 Res in the Humanities I	H24	Trimester 1
+FR305a Introductory French	E1234	Trimester 1
+FR307a Intermediate French	B1245	Trimester 1
+FR307a Intermediate French	G1245	Trimester 1
+FR354 Advanced French I	D135L	Trimester 1
+IE404 Engage to Impact	I1	Trimester 1
+IE405a Mentorship-Senior Research	F124LE2L4G24	Trimester 1
+IE446 Research Computational Sci III	G12345L	Trimester 1
+IE449a Entrepreneurship	H4	Trimester 1
+JA305a Introductory Japanese	A135H4	Trimester 1
+JA307a Intermediate Japanese	B135H4	Trimester 1
+LA305a Introductory Latin	A12L4	Trimester 1
+LA307a Intermediate Latin	B124L	Trimester 1
+LA410 Advanced Latin Prose I	D135L	Trimester 1
+MA355a Precalculus & Modeling	E12L34	Trimester 1
+MA355a Precalculus & Modeling	F124L5	Trimester 1
+MA355a Precalculus & Modeling	A12L34	Trimester 1
+MA355a Precalculus & Modeling	C13L45	Trimester 1
+MA355a Precalculus & Modeling	D1235L	Trimester 1
+MA355a Precalculus & Modeling	G1345L	Trimester 1
+MA355a Precalculus & Modeling	B124L5	Trimester 1
+MA360 Investigations in Calculus I	B124L5	Trimester 1
+MA404 AP Statistics (I)	D1235	Trimester 1
+MA404 AP Statistics (I)	G1345	Trimester 1
+MA410 AP Calc AB (Adv Topics I)	F124L5	Trimester 1
+MA410 AP Calc AB (Adv Topics I)	A12L34	Trimester 1
+MA430 AP Calc BC (Adv Topics I)	E12L34	Trimester 1
+MA430 AP Calc BC (Adv Topics I)	D1235L	Trimester 1
+MA430 AP Calc BC (Adv Topics I)	D1235L	Trimester 1
+MA430 AP Calc BC (Adv Topics I)	F124L5	Trimester 1
+MA430 AP Calc BC (Adv Topics I)	A12L34	Trimester 1
+MA430 AP Calc BC (Adv Topics I)	F124L5	Trimester 1
+MA430 AP Calc BC (Adv Topics I)	C13L45	Trimester 1
+MA430 AP Calc BC (Adv Topics I)	B124L5	Trimester 1
+MA430 AP Calc BC (Adv Topics I)	A12L34	Trimester 1
+MA430 AP Calc BC (Adv Topics I)	E12L34	Trimester 1
+MA430 AP Calc BC (Adv Topics I)	G1345L	Trimester 1
+MA434 AP Calc BC (Adv Topics III)	E12L34	Trimester 1
+MA440 AP Statistics (Adv Topics I)	B1245	Trimester 1
+MA440 AP Statistics (Adv Topics I)	G1345	Trimester 1
+MA440 AP Statistics (Adv Topics I)	D1235	Trimester 1
+MA454 Modeling/Differential Eq's	C13L45	Trimester 1
+MA454 Modeling/Differential Eq's	A12L34	Trimester 1
+MA454 Modeling/Differential Eq's	F124L5	Trimester 1
+MA466 Graph Theory/Intro Proof	A12L34	Trimester 1
+MA466 Graph Theory/Intro Proof	G1345L	Trimester 1
+MA466 Graph Theory/Intro Proof	C13L45	Trimester 1
+MA470 Mathematical Modeling	B124L5	Trimester 1
+MA470 Mathematical Modeling	C13L45	Trimester 1
+MA470 Mathematical Modeling	E12L34	Trimester 1
+MA474 Research in Mathematics II	G1345L	Trimester 1
+MS312 Classical Piano and Guitar	C124	Trimester 1
+MS312 Classical Piano and Guitar	D124	Trimester 1
+MS312 Classical Piano and Guitar	G135	Trimester 1
+MS322 Music Theory and Composition	O12345	Trimester 1
+MS350 Jazz Perf Workshop	C124	Trimester 1
+MU302 Chorale	H24	Trimester 1
+MU360 Wind Ensemble	H1C3L5	Trimester 1
+MU360 Wind Ensemble	H1F3F5	Trimester 1
+MU370 Orchestra	H2C3L5	Trimester 1
+MU370 Orchestra	H2F3F5	Trimester 1
+PA104 Archery	A2L	Trimester 1
+PA104 Archery	E2L	Trimester 1
+PA112 Tennis	B4L	Trimester 1
+PA112 Tennis	F4L	Trimester 1
+PA118 Racquetball	G5L	Trimester 1
+PA136 Hiking	B4L	Trimester 1
+PA140 Self Defense	C3L	Trimester 1
+PA142 Weight Trng/Sprts & Fitness	C3L	Trimester 1
+PA146 Pilates & Yoga	E2L	Trimester 1
+PA146 Pilates & Yoga	A2L	Trimester 1
+PA162 Rock Wall Climbing	D5L	Trimester 1
+PH353a Physics	A12L345	Trimester 1
+PH353a Physics	D12345L	Trimester 1
+PH353a Physics	C123L45	Trimester 1
+PH353a Physics	E12L345	Trimester 1
+PH353a Physics	F1234L5	Trimester 1
+PH353a Physics	G12345L	Trimester 1
+PH401a Physics with Advanced Topics (*M*)	F1234L5	Trimester 1
+PH401a Physics with Advanced Topics (*M*)	G12345L	Trimester 1
+PH401a Physics with Advanced Topics (*M*)	A12L345	Trimester 1
+PH401a Physics with Advanced Topics (*M*)	B1234L5	Trimester 1
+PH401a Physics with Advanced Topics (*M*)	C123L45	Trimester 1
+PH401a Physics with Advanced Topics (*M*)	E12L345	Trimester 1
+PH401a Physics with Advanced Topics (*M*)	D12345L	Trimester 1
+PH404 AP Physics C: Mech (I)	D1235L	Trimester 1
+PH404 AP Physics C: Mech (I)	G1235L	Trimester 1
+PH414 Advanced Physics Problem Solving	C123L45	Trimester 1
+PH416 Quantum Mechanics	E12L345	Trimester 1
+PH418 Astrophysics	B1234L5	Trimester 1
+PH446 Research in Physics III (*R*)	F124L5G1245L	Trimester 1
+RE102 Cornerstone	B2	Trimester 1
+RE102 Cornerstone	E3	Trimester 1
+RE102 Cornerstone	F4	Trimester 1
+RE102 Cornerstone	G3	Trimester 1
+RE102 Cornerstone	E2	Trimester 1
+RE102 Cornerstone	B4	Trimester 1
+RE102 Cornerstone	D2	Trimester 1
+RE102 Cornerstone	D3	Trimester 1
+RE102 Cornerstone	G2	Trimester 1
+RE102 Cornerstone	G4	Trimester 1
+RE102 Cornerstone	A4	Trimester 1
+RE102 Cornerstone	C4	Trimester 1
+RE102 Cornerstone	A2	Trimester 1
+RE102 Cornerstone	F4	Trimester 1
+RE102 Cornerstone	C4	Trimester 1
+RE102 Cornerstone	A3	Trimester 1
+RE110 Exploring MultiCultural Amer	B2	Trimester 1
+RE110 Exploring MultiCultural Amer	C3	Trimester 1
+RE112 Public Speaking	A2	Trimester 1
+RE112 Public Speaking	E3	Trimester 1
+RE116 Marketing You	G2	Trimester 1
+RE116 Marketing You	B4	Trimester 1
+RE116 Marketing You	E3	Trimester 1
+RE116 Marketing You	F3	Trimester 1
+RE116 Marketing You	A4	Trimester 1
+RE116 Marketing You	D3	Trimester 1
+RE116 Marketing You	G3	Trimester 1
+RE120 Financial Planning	F3	Trimester 1
+RE120 Financial Planning	C4	Trimester 1
+SE352 Emergency Care I	B134	Trimester 1
+SEM002 Introduction to Pre-Calculus Seminar	G1345L	Trimester 1
+SEM004 Introduction to Calculus Seminar	C13L45	Trimester 1
+SEM004 Introduction to Calculus Seminar	E12L34	Trimester 1
+SEM006 Calculus Capstone Seminar	M12345	Trimester 1
+SP305a Introductory Spanish	E1234	Trimester 1
+SP305a Introductory Spanish	F1234	Trimester 1
+SP305a Introductory Spanish	G1235	Trimester 1
+SP307a Intermediate Spanish	A2345	Trimester 1
+SP307a Intermediate Spanish	B1245	Trimester 1
+SP307a Intermediate Spanish	E1345	Trimester 1
+SP307a Intermediate Spanish	D1235	Trimester 1
+SP307a Intermediate Spanish	F1245	Trimester 1
+SP307a Intermediate Spanish	G1235	Trimester 1
+SP307a Intermediate Spanish	C1345	Trimester 1
+SP354 Advanced Spanish I	E1235	Trimester 1
+SP354 Advanced Spanish I	C1235	Trimester 1
+SP354 Advanced Spanish I	D1235	Trimester 1
+SP404 Rdgs in Spanish/Topics I	A12L4	Trimester 1
+SS368 Sociology	D135L	Trimester 1
+SS402 AP Microeconomics	B124L	Trimester 1
+SS402 AP Microeconomics	G135L	Trimester 1
+SS402 AP Microeconomics	D135L	Trimester 1
+SS406 Intro Psychology	A1234	Trimester 1
+SS406 Intro Psychology	E1234	Trimester 1
+VS102 Men's Soccer	VS	Trimester 1
+VS104 Women's Volleyball	VS	Trimester 1
+VS106 Women's Tennis	VS	Trimester 1
+VS108 Cross-Country	VS	Trimester 1
+VS110 Competitive Cheer	VS	Trimester 1
+VS112 Women's Golf	VS	Trimester 1
