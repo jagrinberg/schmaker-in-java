@@ -1,0 +1,267 @@
+AR306 Darkroom Photography	H24	Trimester 3
+AR318 Open Studio	D35L	Trimester 3
+AR320 Drawing	G135L	Trimester 3
+AR322 Painting	E124	Trimester 3
+AR324 Art and Technology	C13L	Trimester 3
+AR350 Advanced Drawing	M12345	Trimester 3
+AR352 Advanced Painting	M12345	Trimester 3
+AR354 Advanced Studio Art	M12345	Trimester 3
+AS403c Writing & Amer Studies	C13L45	Trimester 3
+AS403c Writing & Amer Studies	A12L34	Trimester 3
+AS403c Writing & Amer Studies	B124L5	Trimester 3
+AS405c American Studies	C13L45	Trimester 3
+AS405c American Studies	F134L5	Trimester 3
+AS405c American Studies	A12L34	Trimester 3
+AS405c American Studies	A12L34	Trimester 3
+AS405c American Studies	C13L45	Trimester 3
+AS405c American Studies	B124L5	Trimester 3
+AS405c American Studies	G1345L	Trimester 3
+AS405c American Studies	E12L34	Trimester 3
+AS405c American Studies	G1235L	Trimester 3
+AS405c American Studies	D1235L	Trimester 3
+AS405c American Studies	E12L34	Trimester 3
+AS405c American Studies	A12L34	Trimester 3
+AS405c American Studies	F124L5	Trimester 3
+AS405c American Studies	D1235L	Trimester 3
+AS405c American Studies	E12L34	Trimester 3
+AS405c American Studies	D1235L	Trimester 3
+AS405c American Studies	B124L5	Trimester 3
+AS405c American Studies	B124L5	Trimester 3
+BI360 Molecular Genetics (*M*)	B234L5	Trimester 3
+BI360 Molecular Genetics (*M*)	C23L45	Trimester 3
+BI364 Developmental Biology (*R*)	A2L345	Trimester 3
+BI364 Developmental Biology (*R*)	E2L345	Trimester 3
+BI390 Res Exp-Biology (*R*)	C13L45	Trimester 3
+BI400 Aquatic Ecology (*R*)	D1235L	Trimester 3
+BI400 Aquatic Ecology (*R*)	G1235L	Trimester 3
+BI408 Sports Kinesiology II	A12L34	Trimester 3
+BI410 Molecular & Cellular Biol	G12345L	Trimester 3
+BI416 Anat Physiology II (*R*)	D1235L	Trimester 3
+BI416 Anat Physiology II (*R*)	G1235L	Trimester 3
+BI422 Immunology (*R*)	A12L345	Trimester 3
+BI426 AP Enviro Science (II)	F1234L	Trimester 3
+BI438 AP Biology (III) (*R*)	B1234L	Trimester 3
+BI438 AP Biology (III) (*R*)	D1235L	Trimester 3
+BI438 AP Biology (III) (*R*)	F1234L	Trimester 3
+BI444 Research in Biology II (*R*)	F124L5G1245L	Trimester 3
+BI444 Research in Biology II (*R*)	F124L5G1245L	Trimester 3
+CH305c Chemistry by Inquiry	D12345L	Trimester 3
+CH353b Chemistry	G12345L	Trimester 3
+CH353b Chemistry	D12345L	Trimester 3
+CH402 AP Chemistry (II)	A12L345	Trimester 3
+CH402 AP Chemistry (II)	F1234L5	Trimester 3
+CH402 AP Chemistry (II)	B1234L5	Trimester 3
+CH402 AP Chemistry (II)	E12L345	Trimester 3
+CH402 AP Chemistry (II)	C123L45	Trimester 3
+CH406 AP Chemistry (Adv II)	A12L34	Trimester 3
+CH406 AP Chemistry (Adv II)	E12L34	Trimester 3
+CH408 Analytical Chemistry	B124L5	Trimester 3
+CH408 Analytical Chemistry	F124L5	Trimester 3
+CH410 Organic Chemistry	A12L345	Trimester 3
+CH410 Organic Chemistry	E12L345	Trimester 3
+CH416 Environmental Chem (*R*)	C123L45	Trimester 3
+CH422 Polymer Chemistry	D12345L	Trimester 3
+CH428 Materials Chemistry (*R*)	B1234L5	Trimester 3
+CH444 Research Chem II (*R*)	F124L5G1245L	Trimester 3
+CH444 Research Chem II (*R*)	F124L5G1245L	Trimester 3
+CN305c Introductory Chinese	B1234	Trimester 3
+CN305c Introductory Chinese	C1234	Trimester 3
+CN307c Intermediate Chinese	C123L4	Trimester 3
+CN307c Intermediate Chinese	B1234L	Trimester 3
+CN358 Advanced Chinese III	A12L345	Trimester 3
+CN408 Readings in Chinese/Topics III	A12L345	Trimester 3
+CN458 Advanced Readings in Chinese/Topics III	A12L345	Trimester 3
+CS360 Artistic Computing	D135L	Trimester 3
+CS402 Web Development	A12L34	Trimester 3
+CS402 Web Development	C123L4	Trimester 3
+CS424 Procedural Programming	C123L4	Trimester 3
+CS426 Java	F1234L	Trimester 3
+CS428 Advanced Java	B1234L	Trimester 3
+CS436 Data Structures	A12L34	Trimester 3
+DR306 Theater Perf Wrkshp	H3	Trimester 3
+EE362 Engineering the Modern	E1234	Trimester 3
+EE400 Mechanical Engineering	B124L5	Trimester 3
+EE400 Mechanical Engineering	C123L5	Trimester 3
+EE402 Electrical Engineering	D1235L	Trimester 3
+EE408 Biomedical Engineering	B124L5	Trimester 3
+EE418 Environmental Engineering	D1235L	Trimester 3
+EE444 Rsch in Engr and CS II	F124L5G1245L	Trimester 3
+EE454 Statics	E12L34	Trimester 3
+EE456 Circuits	F1234L	Trimester 3
+EN354 Fiction Writing	C13L4	Trimester 3
+EN356 Film Studies	D135L	Trimester 3
+EN356 Film Studies	F134L	Trimester 3
+EN366 Poetry Writing	G135L	Trimester 3
+EN366 Poetry Writing	H24	Trimester 3
+EN390 Res Exp-Humanities	H24	Trimester 3
+EN390 Res Exp-Humanities	H13	Trimester 3
+EN406 Brit Lit/Cult 1837-Present	B124L	Trimester 3
+EN408 East-West Studies II	F1234L	Trimester 3
+EN408 East-West Studies II	G1235L	Trimester 3
+EN412 Southern Lit/Culture	G135L	Trimester 3
+EN420 Asia III	E2L345	Trimester 3
+EN420 Asia III	A2L345	Trimester 3
+EN422 Philos/Lit in 20th Century	I24	Trimester 3
+EN426 Africa II	D1235L	Trimester 3
+EN426 Africa II	G1235L	Trimester 3
+EN440 Western Euro Cultural Stu III	I13	Trimester 3
+EN446 Western Civilization: WRRD III	D1235L	Trimester 3
+EN462 Shakespeare Now	G135L	Trimester 3
+FR305c Introductory French	E1234	Trimester 3
+FR307c Intermediate French	B1245	Trimester 3
+FR307c Intermediate French	G1245	Trimester 3
+FR358 Advanced French III	D135L	Trimester 3
+FR406 Modern French Readings/Media II	N/A	Trimester 3
+HU354 Black Studies	E12L4	Trimester 3
+HU356 History Western Music	G135L	Trimester 3
+HU364 Women's Studies	G135L	Trimester 3
+HU364 Women's Studies	D135L	Trimester 3
+IE308 Explorations in Mentorship	F24	Trimester 3
+IE308 Explorations in Mentorship	H2	Trimester 3
+IE308 Explorations in Mentorship	E24	Trimester 3
+IE308 Explorations in Mentorship	G24	Trimester 3
+IE308 Explorations in Mentorship	I2	Trimester 3
+IE360 Digital Humanities	D235L	Trimester 3
+IE406 Mentorship-Extended Research	F124LE2L4G24	Trimester 3
+IE444 Research Computational Sci II	G12345L	Trimester 3
+JA305c Introductory Japanese	A135H4	Trimester 3
+JA307c Intermediate Japanese	B135H4	Trimester 3
+LA305c Introductory Latin	A12L4	Trimester 3
+LA307c Intermediate Latin	B124L	Trimester 3
+LA414 Advanced Latin Prose III	D135L	Trimester 3
+MA355c Precalculus & Modeling	D1235L	Trimester 3
+MA355c Precalculus & Modeling	A12L34	Trimester 3
+MA355c Precalculus & Modeling	E12L34	Trimester 3
+MA355c Precalculus & Modeling	F124L5	Trimester 3
+MA355c Precalculus & Modeling	C13L45	Trimester 3
+MA355c Precalculus & Modeling	G1345L	Trimester 3
+MA355c Precalculus & Modeling	B124L5	Trimester 3
+MA368 Finite Mathematics	B1245	Trimester 3
+MA408 AP Statistics (III)	D1235	Trimester 3
+MA414 AP Calc AB (Adv Topics III)	F124L5	Trimester 3
+MA414 AP Calc AB (Adv Topics III)	A12L34	Trimester 3
+MA434 AP Calc BC (Adv Topics III)	E12L34	Trimester 3
+MA434 AP Calc BC (Adv Topics III)	G1345L	Trimester 3
+MA434 AP Calc BC (Adv Topics III)	E12L34	Trimester 3
+MA434 AP Calc BC (Adv Topics III)	D1235L	Trimester 3
+MA434 AP Calc BC (Adv Topics III)	F124L5	Trimester 3
+MA434 AP Calc BC (Adv Topics III)	A12L34	Trimester 3
+MA434 AP Calc BC (Adv Topics III)	C13L45	Trimester 3
+MA434 AP Calc BC (Adv Topics III)	B124L5	Trimester 3
+MA434 AP Calc BC (Adv Topics III)	D1235L	Trimester 3
+MA434 AP Calc BC (Adv Topics III)	A12L34	Trimester 3
+MA434 AP Calc BC (Adv Topics III)	F124L5	Trimester 3
+MA444 AP Statistics (Adv Topics III)	D1235	Trimester 3
+MA444 AP Statistics (Adv Topics III)	B1245	Trimester 3
+MA454 Modeling/Differential Eq's	F124L5	Trimester 3
+MA454 Modeling/Differential Eq's	D1235L	Trimester 3
+MA456 Numerical Analysis	C13L45	Trimester 3
+MA460 Number Theory	G12345	Trimester 3
+MA466 Graph Theory/Intro Proof	C13L45	Trimester 3
+MA468 Structure&Dynamics/Mdrn Networks	C13L45	Trimester 3
+MA468 Structure&Dynamics/Mdrn Networks	E12L34	Trimester 3
+MA472 Research in Mathematics I	G1345L	Trimester 3
+MA476 Abstract Algebra	E12345	Trimester 3
+MA482 Multiple Intgrls/Vector Flds	B1245	Trimester 3
+MA482 Multiple Intgrls/Vector Flds	F1245	Trimester 3
+MA482 Multiple Intgrls/Vector Flds	A1234	Trimester 3
+MA482 Multiple Intgrls/Vector Flds	G1345	Trimester 3
+MS316 Classical Piano and Guitar	D124	Trimester 3
+MS316 Classical Piano and Guitar	C124	Trimester 3
+MS354 Jazz Perf Workshop	C124	Trimester 3
+MS402 AP Music Theory	O12345	Trimester 3
+MU306 Chorale	H24	Trimester 3
+MU364 Wind Ensemble	H1C3L5	Trimester 3
+MU364 Wind Ensemble	H1F3F5	Trimester 3
+MU374 Orchestra	H2C3L5	Trimester 3
+MU374 Orchestra	H2F3F5	Trimester 3
+PA102 Disc Golf	C3L	Trimester 3
+PA108 Ultimate Frisbee	F4L	Trimester 3
+PA112 Tennis	A2L	Trimester 3
+PA112 Tennis	E2L	Trimester 3
+PA118 Racquetball	B4L	Trimester 3
+PA136 Hiking	B4L	Trimester 3
+PA140 Self Defense	C3L	Trimester 3
+PA142 Weight Trng/Sprts & Fitness	G5L	Trimester 3
+PA146 Pilates & Yoga	A2L	Trimester 3
+PA146 Pilates & Yoga	E2L	Trimester 3
+PA162 Rock Wall Climbing	D5L	Trimester 3
+PH304 Astronomy	F134L	Trimester 3
+PH352 Waves Sound and Optics	B1234L5	Trimester 3
+PH352 Waves Sound and Optics	D12345L	Trimester 3
+PH353c Physics	D1235L	Trimester 3
+PH353c Physics	C123L4	Trimester 3
+PH353c Physics	E12L34	Trimester 3
+PH353c Physics	A12L34	Trimester 3
+PH353c Physics	F1234L	Trimester 3
+PH353c Physics	G1235L	Trimester 3
+PH390 Research Experience in Physics (*R*)	B234L5	Trimester 3
+PH401b Physics/Adv Topics	B1234L5	Trimester 3
+PH401b Physics/Adv Topics	E12L345	Trimester 3
+PH401b Physics/Adv Topics	A12L345	Trimester 3
+PH401b Physics/Adv Topics	C123L45	Trimester 3
+PH408 AP Physics C: E&M (II)	D1235L	Trimester 3
+PH408 AP Physics C: E&M (II)	G1235L	Trimester 3
+PH410 Modern Physics	A12L345	Trimester 3
+PH412 Computational Physics	C123L45	Trimester 3
+PH412 Computational Physics	E12L345	Trimester 3
+PH444 Research in Physics II (*R*)	F124L5G1245L	Trimester 3
+RE110 Exploring MultiCultural Amer	A2	Trimester 3
+RE110 Exploring MultiCultural Amer	C3	Trimester 3
+RE110 Exploring MultiCultural Amer	F4	Trimester 3
+RE112 Public Speaking	G3	Trimester 3
+RE112 Public Speaking	F4	Trimester 3
+RE112 Public Speaking	F4	Trimester 3
+RE116 Marketing You	G3	Trimester 3
+RE118 Excellence in Leadership	C4	Trimester 3
+RE118 Excellence in Leadership	F3	Trimester 3
+RE120 Financial Planning	A3	Trimester 3
+RE120 Financial Planning	B4	Trimester 3
+RE120 Financial Planning	D3	Trimester 3
+RE120 Financial Planning	G2	Trimester 3
+RE122 NCSSM to College	A2	Trimester 3
+RE122 NCSSM to College	D3	Trimester 3
+RE122 NCSSM to College	B2	Trimester 3
+RE122 NCSSM to College	B4	Trimester 3
+RE122 NCSSM to College	C3	Trimester 3
+RE122 NCSSM to College	C4	Trimester 3
+RE122 NCSSM to College	D2	Trimester 3
+RE122 NCSSM to College	E2	Trimester 3
+RE122 NCSSM to College	F3	Trimester 3
+RE122 NCSSM to College	F4	Trimester 3
+RE122 NCSSM to College	A4	Trimester 3
+RE122 NCSSM to College	E3	Trimester 3
+RE122 NCSSM to College	G3	Trimester 3
+RE122 NCSSM to College	G3	Trimester 3
+SE402 Emergency Care II	B134	Trimester 3
+SP305c Introductory Spanish	E1234	Trimester 3
+SP305c Introductory Spanish	F1234	Trimester 3
+SP305c Introductory Spanish	G1235	Trimester 3
+SP307c Intermediate Spanish	A2345	Trimester 3
+SP307c Intermediate Spanish	B1245	Trimester 3
+SP307c Intermediate Spanish	C1345	Trimester 3
+SP307c Intermediate Spanish	D1235	Trimester 3
+SP307c Intermediate Spanish	E1345	Trimester 3
+SP307c Intermediate Spanish	G1235	Trimester 3
+SP307c Intermediate Spanish	F1245	Trimester 3
+SP358 Advanced Spanish III	C1235	Trimester 3
+SP358 Advanced Spanish III	D1235	Trimester 3
+SP358 Advanced Spanish III	E1235	Trimester 3
+SP408 Rdgs in Spanish/Topics III	A12L4	Trimester 3
+SS358 International Relations	D135L	Trimester 3
+SS358 International Relations	B124L	Trimester 3
+SS360 Topics Hist/Social Sci	G135L	Trimester 3
+SS362 Topics Hist/Social Sci II	F134L	Trimester 3
+SS366 Topics in Psychology	C13L5	Trimester 3
+SS368 Sociology	G135L	Trimester 3
+SS372 Medical Sociology	F134L	Trimester 3
+SS406 Intro Psychology	A1234	Trimester 3
+SS412 Enviro Econ Systems	D135L	Trimester 3
+SS412 Enviro Econ Systems	B124L	Trimester 3
+SS414 Contemporary Challenges in Economics	G135L	Trimester 3
+VS142 Men's Golf	VS	Trimester 3
+VS144 Men's Tennis	VS	Trimester 3
+VS146 Men's Baseball	VS	Trimester 3
+VS148 Women's Softball	VS	Trimester 3
+VS150 Women's Soccer	VS	Trimester 3
+VS152 Track and Field	VS	Trimester 3

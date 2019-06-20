@@ -11,7 +11,7 @@ public class schmaker {
 	public static List<String> Tri3classes;
 
 	public static void main(String[] args) throws IOException {
-		Tri1 = readFile("Tri1.txt");
+		/*Tri1 = readFile("Tri1.txt");
 		Tri2 = readFile("Tri2.txt");
 		Tri3 = readFile("Tri3.txt");
 
@@ -23,23 +23,159 @@ public class schmaker {
 
 		List<String> empty = new ArrayList<>();
 
-		classList first = new classList("f", "f", empty);
+		classList first = new classList("f", "f", empty, 1, false);
 		classList temp = first;
-		for (String i : Tri1classes) {
-			classList current = new classList(i, Tri1.get(i).get(0), Tri1.get(i).subList(1, Tri1.get(i).size()));
+		for (String i : Tri1classes) {	
+			classList current = new classList(i, Tri1.get(i).get(0), Tri1.get(i).subList(1, Tri1.get(i).size()), 1, false);
+			temp.addClass(current);
+			temp = current;
+			if(i.endsWith("a")) {
+				if(Tri2classes.contains(i.substring(0, i.length()-1) + "b")) {
+					int ind = Tri2classes.indexOf(i.substring(0, i.length()-1) + "b");
+					String value = Tri2classes.get(ind);
+					current = new classList(value, Tri2.get(value).get(0), Tri2.get(value).subList(1, Tri2.get(value).size()), 2, true);
+					temp.addClass(current);
+					temp = current;
+					Tri2classes.remove(ind);
+					if(Tri3classes.contains(i.substring(0, i.length()-1) + "c")) {
+						ind = Tri3classes.indexOf(i.substring(0, i.length()-1) + "c");
+						value = Tri3classes.get(ind);
+						current = new classList(value, Tri3.get(value).get(0), Tri3.get(value).subList(1, Tri3.get(value).size()), 3, true);
+						temp.addClass(current);
+						temp = current;
+						Tri3classes.remove(ind);
+					}
+				}
+			}
+		}
+		for (String i : Tri2classes) {
+			classList current = new classList(i, Tri2.get(i).get(0), Tri2.get(i).subList(1, Tri2.get(i).size()), 2, false);
+			temp.addClass(current);
+			temp = current;
+			if(i.endsWith("a")) {
+				if(Tri3classes.contains(i.substring(0, i.length()-1) + "b")) {
+					int ind = Tri3classes.indexOf(i.substring(0, i.length()-1) + "b");
+					String value = Tri3classes.get(ind);
+					current = new classList(value, Tri3.get(value).get(0), Tri3.get(value).subList(1, Tri3.get(value).size()), 3, true);
+					temp.addClass(current);
+					temp = current;
+					Tri3classes.remove(ind);
+				}
+			}
+		}
+		for (String i : Tri3classes) {
+			classList current = new classList(i, Tri3.get(i).get(0), Tri3.get(i).subList(1, Tri3.get(i).size()), 3, false);
 			temp.addClass(current);
 			temp = current;
 		}
 
-		//first.display();
+		// first.display();
+		PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter("Test2.txt", true)));
+		boolean conflict = first.createSched(pw);
+		System.out.println(conflict);
+		pw.close();*/
+	}
+	
+	public String[][][] create(List<String> onec, List<String> twoc, List<String> threec) throws IOException {
+		Tri1 = readFile("Tri1.txt");
+		Tri2 = readFile("Tri2.txt");
+		Tri3 = readFile("Tri3.txt");
+
+		Tri1classes = new ArrayList<>();
+		Tri2classes = new ArrayList<>();
+		Tri3classes = new ArrayList<>();
+
+		Tri1classes = onec;
+		Tri2classes = twoc;
+		Tri3classes = threec;
+		
+		for(int i = 0; i < Tri1classes.size(); i++) {
+			if(Tri1classes.get(i).startsWith("VS")) {
+				Tri1classes.remove(i);
+				i--;
+			}
+		}
+		for(int i = 0; i < Tri2classes.size(); i++) {
+			if(Tri2classes.get(i).startsWith("VS")) {
+				Tri2classes.remove(i);
+				i--;
+			}
+		}
+		for(int i = 0; i < Tri3classes.size(); i++) {
+			if(Tri3classes.get(i).startsWith("VS")) {
+				Tri3classes.remove(i);
+				i--;
+			}
+		}
+
+		List<String> empty = new ArrayList<>();
+
+		classList first = new classList("f", "f", empty, 1, false);
+		classList temp = first;
+		for (String i : Tri1classes) {	
+			classList current = new classList(i, Tri1.get(i).get(0), Tri1.get(i).subList(1, Tri1.get(i).size()), 1, false);
+			temp.addClass(current);
+			temp = current;
+			if(i.endsWith("a")) {
+				if(Tri2classes.contains(i.substring(0, i.length()-1) + "b")) {
+					int ind = Tri2classes.indexOf(i.substring(0, i.length()-1) + "b");
+					String value = Tri2classes.get(ind);
+					current = new classList(value, Tri2.get(value).get(0), Tri2.get(value).subList(1, Tri2.get(value).size()), 2, true);
+					temp.addClass(current);
+					temp = current;
+					Tri2classes.remove(ind);
+					if(Tri3classes.contains(i.substring(0, i.length()-1) + "c")) {
+						ind = Tri3classes.indexOf(i.substring(0, i.length()-1) + "c");
+						value = Tri3classes.get(ind);
+						current = new classList(value, Tri3.get(value).get(0), Tri3.get(value).subList(1, Tri3.get(value).size()), 3, true);
+						temp.addClass(current);
+						temp = current;
+						Tri3classes.remove(ind);
+					}
+				}
+			}
+		}
+		for (String i : Tri2classes) {
+			classList current = new classList(i, Tri2.get(i).get(0), Tri2.get(i).subList(1, Tri2.get(i).size()), 2, false);
+			temp.addClass(current);
+			temp = current;
+			if(i.endsWith("a")) {
+				if(Tri3classes.contains(i.substring(0, i.length()-1) + "b")) {
+					int ind = Tri3classes.indexOf(i.substring(0, i.length()-1) + "b");
+					String value = Tri3classes.get(ind);
+					current = new classList(value, Tri3.get(value).get(0), Tri3.get(value).subList(1, Tri3.get(value).size()), 3, true);
+					temp.addClass(current);
+					temp = current;
+					Tri3classes.remove(ind);
+				}
+			}
+		}
+		for (String i : Tri3classes) {
+			classList current = new classList(i, Tri3.get(i).get(0), Tri3.get(i).subList(1, Tri3.get(i).size()), 3, false);
+			temp.addClass(current);
+			temp = current;
+		}
+
+		// first.display();
 		PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter("Test2.txt", true)));
 		boolean conflict = first.createSched(pw);
 		System.out.println(conflict);
 		pw.close();
+		temp = first;
+		while(temp.next!=null) {
+			temp = temp.next;
+		}
+		String[][][] out= temp.state;
+		if(conflict) {
+			return out;
+		}else {
+			out[0][0][0] = "NO";
+			return out;
+		}
 	}
-
+	
 	// reads users classes from a .txt file
-	public static void readClasses() throws IOException {
+	/*public static void readClasses() throws IOException {
 		BufferedReader reader = new BufferedReader(new FileReader("Classes.txt"));
 		String line = reader.readLine();
 		while (!line.equals("")) {
@@ -56,12 +192,15 @@ public class schmaker {
 			Tri3classes.add(line);
 			line = reader.readLine();
 		}
-	}
+	}*/
 
 	// reads classes and puts them in a HashMap
-	public static HashMap<String, List<String>> readFile(String filename) throws IOException {
-		BufferedReader reader = new BufferedReader(new FileReader(filename));
-		PrintWriter write = new PrintWriter(new BufferedWriter(new FileWriter("Test.txt", true)));
+	public HashMap<String, List<String>> readFile(String filename) throws IOException {
+		InputStream is = getClass().getResourceAsStream(filename);
+	    InputStreamReader isr = new InputStreamReader(is);
+		
+		BufferedReader reader = new BufferedReader(isr);
+		//PrintWriter write = new PrintWriter(new BufferedWriter(new FileWriter("Test.txt", true)));
 
 		HashMap<String, List<String>> Tri = new HashMap<>();
 
@@ -97,15 +236,6 @@ public class schmaker {
 			}
 			line = reader.readLine();
 		}
-
-		for (String i : Tri.keySet()) {
-			write.print(Tri.get(i).get(0) + ": ");
-			for (String j : Tri.get(i).subList(1, Tri.get(i).size())) {
-				write.print(j + " ");
-			}
-			write.print("\n");
-		}
-		write.close();
 		reader.close();
 		return Tri;
 	}
@@ -116,13 +246,16 @@ class classList {
 	public String identifier;
 	public String className;
 	public List<String> periods;
-	// public List<Integer> tris;
 	public String[][][] state;
 	public classList prev;
 	public classList next;
+	public int tri;
 	public boolean first;
+	public boolean depend;
 
-	public classList(String identifier, String className, List<String> periods/* , List<Integer> tris */) throws IOException {
+	public classList(String identifier, String className, List<String> periods, int tri, boolean depend) throws IOException {
+		this.tri = tri-1;
+		this.depend=depend;
 		this.identifier = identifier;
 		this.className = className;
 		this.periods = periods;
@@ -153,7 +286,12 @@ class classList {
 
 	public boolean createSched(PrintWriter pw) {
 		if (this.identifier.equals("f")) {
-			return this.next.createSched(pw);
+			if(this.next!=null) {
+				return this.next.createSched(pw);
+			}else {
+				return true;
+			}
+
 		} else {
 			do {
 				boolean complete = false;
@@ -163,12 +301,16 @@ class classList {
 						this.currentIndex = 0;
 						return false;
 					}
-					for(int z = 0; z < this.prev.state.length; z++) {
-						for(int x = 0; x < this.prev.state[0].length; x++) {
-							for(int c = 0; c < this.prev.state[0][0].length; c++) {
+					for (int z = 0; z < this.prev.state.length; z++) {
+						for (int x = 0; x < this.prev.state[0].length; x++) {
+							for (int c = 0; c < this.prev.state[0][0].length; c++) {
 								this.state[z][x][c] = this.prev.state[z][x][c];
-							}	
+							}
 						}
+					}
+					if(this.depend) {
+						this.periods.clear();
+						this.periods.add(prev.periods.get(prev.currentIndex-1));
 					}
 					String p = this.periods.get(this.currentIndex);
 					pw.println(p);
@@ -197,21 +339,21 @@ class classList {
 						}
 					}
 					complete = true;
-					
+
 					for (int[] i : times) {
-						if (this.state[0][i[0]][i[1]] != null) {
+						if (this.state[tri][i[0]][i[1]] != null) {
 							complete = false;
 							break;
 						} else {
-							this.state[0][i[0]][i[1]] = this.identifier;
+							this.state[tri][i[0]][i[1]] = this.identifier;
 						}
 					}
 					for (int q = 0; q < this.state[0].length; q++) {
 						for (int w = 0; w < this.state[0][0].length; w++) {
-							if (this.state[0][q][w] == null) {
+							if (this.state[tri][q][w] == null) {
 								pw.print("00000 ");
 							} else {
-								pw.print(this.state[0][q][w] + " ");
+								pw.print(this.state[tri][q][w] + " ");
 							}
 						}
 						pw.println();
@@ -219,14 +361,19 @@ class classList {
 					this.currentIndex++;
 				}
 				if (this.next == null) {
-					for (int q = 0; q < this.state[0].length; q++) {
-						for (int w = 0; w < this.state[0][0].length; w++) {
-							if (this.state[0][q][w] == null) {
-								pw.print("00000 ");
-							} else {
-								pw.print(this.state[0][q][w] + " ");
+					pw.println();
+					for (int r = 0; r < 3; r++) {
+						for (int q = 0; q < this.state[0].length; q++) {
+							for (int w = 0; w < this.state[0][0].length; w++) {
+								if (this.state[r][q][w] == null) {
+									pw.print("00000 ");
+								} else {
+									pw.print(this.state[r][q][w] + " ");
+								}
 							}
+							pw.println();
 						}
+						pw.println("\n");
 					}
 					break;
 				}

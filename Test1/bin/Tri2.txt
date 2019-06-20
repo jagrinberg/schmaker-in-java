@@ -1,0 +1,264 @@
+AR306 Darkroom Photography	H24	Trimester 2
+AR318 Open Studio	D35L	Trimester 2
+AR320 Drawing	E12L4	Trimester 2
+AR322 Painting	G135L	Trimester 2
+AR324 Art and Technology	C13L	Trimester 2
+AR350 Advanced Drawing	M12345	Trimester 2
+AR352 Advanced Painting	M12345	Trimester 2
+AR354 Advanced Studio Art	M12345	Trimester 2
+AS403b Writing & Amer Studies	C13L45	Trimester 2
+AS403b Writing & Amer Studies	A12L34	Trimester 2
+AS403b Writing & Amer Studies	B124L5	Trimester 2
+AS405b American Studies	B124L5	Trimester 2
+AS405b American Studies	A12L34	Trimester 2
+AS405b American Studies	A12L34	Trimester 2
+AS405b American Studies	B124L5	Trimester 2
+AS405b American Studies	C13L45	Trimester 2
+AS405b American Studies	C13L45	Trimester 2
+AS405b American Studies	D1235L	Trimester 2
+AS405b American Studies	E12L34	Trimester 2
+AS405b American Studies	F124L5	Trimester 2
+AS405b American Studies	F134L5	Trimester 2
+AS405b American Studies	E12L34	Trimester 2
+AS405b American Studies	G1345L	Trimester 2
+AS405b American Studies	G1235L	Trimester 2
+AS405b American Studies	D1235L	Trimester 2
+AS405b American Studies	E12L34	Trimester 2
+AS405b American Studies	D1235L	Trimester 2
+AS405b American Studies	B124L5	Trimester 2
+AS405b American Studies	A12L34	Trimester 2
+BI352 Anatomy & Physiology I	A12L345	Trimester 2
+BI352 Anatomy & Physiology I	E12L345	Trimester 2
+BI356 Sports Kinesiology I	A12L34	Trimester 2
+BI358 Classical Genetics (*M*)	E12L34	Trimester 2
+BI358 Classical Genetics (*M*)	A12L34	Trimester 2
+BI360 Molecular Genetics (*M*)	B234L5	Trimester 2
+BI360 Molecular Genetics (*M*)	C23L45	Trimester 2
+BI370 Evolution	C123L45	Trimester 2
+BI402 Evolution/Adv Topics (*M*)	G1235L	Trimester 2
+BI402 Evolution/Adv Topics (*M*)	D1235L	Trimester 2
+BI406 Neuroscience (*R*)	C123L5	Trimester 2
+BI406 Neuroscience (*R*)	F124L5	Trimester 2
+BI406 Neuroscience (*R*)	B124L5	Trimester 2
+BI424 AP Enviro Science (I)	F1234L	Trimester 2
+BI436 AP Biology (II) (*R*)	D1235L	Trimester 2
+BI436 AP Biology (II) (*R*)	F1234L	Trimester 2
+BI436 AP Biology (II) (*R*)	B1234L	Trimester 2
+BI442 Research in Biology I (*R*)	F124L5G1245L	Trimester 2
+BI442 Research in Biology I (*R*)	F124L5G1245L	Trimester 2
+BI448 Research in Biology IV (*R*)	F124L5G1245L	Trimester 2
+BI448 Research in Biology IV (*R*)	F124L5G1245L	Trimester 2
+CH305b Chemistry by Inquiry	D12345L	Trimester 2
+CH353a Chemistry	D12345L	Trimester 2
+CH353a Chemistry	G12345L	Trimester 2
+CH353b Chemistry	A12L345	Trimester 2
+CH353b Chemistry	E12L345	Trimester 2
+CH353b Chemistry	F1234L5	Trimester 2
+CH353b Chemistry	B1234L5	Trimester 2
+CH401b AP Chemistry (I)	C123L45	Trimester 2
+CH401b AP Chemistry (I)	D12345L	Trimester 2
+CH401b AP Chemistry (I)	B1234L5	Trimester 2
+CH401b AP Chemistry (I)	E12L345	Trimester 2
+CH401b AP Chemistry (I)	G12345L	Trimester 2
+CH401b AP Chemistry (I)	A12L345	Trimester 2
+CH401b AP Chemistry (I)	F1234L5	Trimester 2
+CH405b AP Chemistry (Adv I)	A12L345	Trimester 2
+CH405b AP Chemistry (Adv I)	E12L345	Trimester 2
+CH405b AP Chemistry (Adv I)	C123L45	Trimester 2
+CH418 Biochemistry (*R*)	B1234L5	Trimester 2
+CH442 Research Chem I (*R*)	F124L5G1245L	Trimester 2
+CH442 Research Chem I (*R*)	F124L5G1245L	Trimester 2
+CH448 Research Chem IV (*R*)	F124L5G1245L	Trimester 2
+CH448 Research Chem IV (*R*)	F124L5G1245L	Trimester 2
+IE442 Research Computational Sci I	G12345L	Trimester 2
+CN305b Introductory Chinese	B1234	Trimester 2
+CN305b Introductory Chinese	C1234	Trimester 2
+CN307b Intermediate Chinese	B1234L	Trimester 2
+CN307b Intermediate Chinese	C123L4	Trimester 2
+CN356 Advanced Chinese II	A12L345	Trimester 2
+CN406 Readings in Chinese/Topics II	A12L345	Trimester 2
+CN456 Advanced Readings in Chinese/Topics II	A12L345	Trimester 2
+CS358 Cryptography	A12L34	Trimester 2
+CS364 Connected Computing II	D135L	Trimester 2
+CS402 Web Development	B1234L	Trimester 2
+CS402 Web Development	A12L34	Trimester 2
+CS424 Procedural Programming	F1234L	Trimester 2
+CS426 Java	C123L4	Trimester 2
+CS434 C	B1234L	Trimester 2
+DR304 Theater Perf Wrkshp	H3	Trimester 2
+EE310 CAD/CAM	E12L34	Trimester 2
+EE316 Introductory Robotics	B124L5	Trimester 2
+EE370 Biomechanics of Injury	C13L45	Trimester 2
+EE390 Rsch Exp in Engr	C13L45	Trimester 2
+EE402 Electrical Engineering	E12L34	Trimester 2
+EE402 Electrical Engineering	D1235L	Trimester 2
+EE404 Architecture	F1234L	Trimester 2
+EE408 Biomedical Engineering	F134L5	Trimester 2
+EE416 Civil Engineering	D1235L	Trimester 2
+EE442 Rsch in Engr and CS I	F124L5G1245L	Trimester 2
+EE452 Biomedical Instrumentation	B124L5	Trimester 2
+EN390 Res Exp-Humanities	H13	Trimester 2
+EN400 East-West Studies I	F1234L	Trimester 2
+EN404 Brit Lit/Cult 1603-1837	B124L	Trimester 2
+EN412 Southern Lit/Culture	G135L	Trimester 2
+EN414 Modern World Fiction	H24	Trimester 2
+EN414 Modern World Fiction	I24	Trimester 2
+EN418 Asia II	E2L345	Trimester 2
+EN418 Asia II	A2L345	Trimester 2
+EN424 Africa I	D1235L	Trimester 2
+EN438 Western Euro Cultural Stu II	I13	Trimester 2
+EN444 Western Civilization: WRRD II	D1235L	Trimester 2
+EN448 Topics in Literature I	D135L	Trimester 2
+EN450 Topics in Literature II	G135L	Trimester 2
+EN492 Res in the Humanities II	H24	Trimester 2
+FR305b Introductory French	E1234	Trimester 2
+FR307b Intermediate French	B1245	Trimester 2
+FR307b Intermediate French	G1245	Trimester 2
+FR356 Advanced French II	D135L	Trimester 2
+HU366 Critical Race Theory	G135L	Trimester 2
+IE405b Mentorship-Senior Research	F124LE2L4G24	Trimester 2
+IE449b Entrepreneurship	H4	Trimester 2
+IE450 Applications in Entrepreneurship	H1	Trimester 2
+JA305b Introductory Japanese	A135H4	Trimester 2
+JA307b Intermediate Japanese	B135H4	Trimester 2
+LA305b Introductory Latin	A12L4	Trimester 2
+LA307b Intermediate Latin	B124L	Trimester 2
+LA412 Advanced Latin Prose II	D135L	Trimester 2
+MA355b Precalculus & Modeling	F124L5	Trimester 2
+MA355b Precalculus & Modeling	A12L34	Trimester 2
+MA355b Precalculus & Modeling	C13L45	Trimester 2
+MA355b Precalculus & Modeling	D1235L	Trimester 2
+MA355b Precalculus & Modeling	E12L34	Trimester 2
+MA355b Precalculus & Modeling	B124L5	Trimester 2
+MA355b Precalculus & Modeling	G1345L	Trimester 2
+MA358 Cryptography	E12L34	Trimester 2
+MA362 Investigations in Calculus II	B124L5	Trimester 2
+MA406 AP Statistics (II)	D1235	Trimester 2
+MA406 AP Statistics (II)	G1345	Trimester 2
+MA412 AP Calc AB (Adv Topics II)	F124L5	Trimester 2
+MA412 AP Calc AB (Adv Topics II)	A12L34	Trimester 2
+MA432 AP Calc BC (Adv Topics II)	D12345L	Trimester 2
+MA432 AP Calc BC (Adv Topics II)	F1234L5	Trimester 2
+MA432 AP Calc BC (Adv Topics II)	G12345L	Trimester 2
+MA432 AP Calc BC (Adv Topics II)	D12345L	Trimester 2
+MA432 AP Calc BC (Adv Topics II)	A12L345	Trimester 2
+MA432 AP Calc BC (Adv Topics II)	B1234L5	Trimester 2
+MA432 AP Calc BC (Adv Topics II)	C123L45	Trimester 2
+MA432 AP Calc BC (Adv Topics II)	E12L345	Trimester 2
+MA432 AP Calc BC (Adv Topics II)	A12L345	Trimester 2
+MA432 AP Calc BC (Adv Topics II)	E12L345	Trimester 2
+MA432 AP Calc BC (Adv Topics II)	F1234L5	Trimester 2
+MA436 Adv Probability Models	F124L5	Trimester 2
+MA442 AP Statistics (Adv Topics II)	D1235	Trimester 2
+MA442 AP Statistics (Adv Topics II)	G1345	Trimester 2
+MA442 AP Statistics (Adv Topics II)	B1245	Trimester 2
+MA458 Intro to Complex Systems	A12L34	Trimester 2
+MA458 Intro to Complex Systems	C13L45	Trimester 2
+MA458 Intro to Complex Systems	E12L34	Trimester 2
+MA464 Combinatorics & Game Theory	C1345	Trimester 2
+MA464 Combinatorics & Game Theory	G1345	Trimester 2
+MA478 Advanced Combinatorics	C1345	Trimester 2
+MA480 Vector Funct/Partial Derivs	A1234	Trimester 2
+MA480 Vector Funct/Partial Derivs	G1345	Trimester 2
+MA480 Vector Funct/Partial Derivs	F1245	Trimester 2
+MA480 Vector Funct/Partial Derivs	B1245	Trimester 2
+MS314 Classical Piano and Guitar	D124	Trimester 2
+MS314 Classical Piano and Guitar	C124	Trimester 2
+MS336 Audio/Digital Music Prod	G135	Trimester 2
+MS352 Jazz Perf Workshop	C124	Trimester 2
+MU304 Chorale	H24	Trimester 2
+MU362 Wind Ensemble	H1C3L5	Trimester 2
+MU362 Wind Ensemble	H1F3F5	Trimester 2
+MU372 Orchestra	H2C3L5	Trimester 2
+MU372 Orchestra	H2F3F5	Trimester 2
+PA118 Racquetball	A2L	Trimester 2
+PA118 Racquetball	E2L	Trimester 2
+PA126 Badminton	B4L	Trimester 2
+PA126 Badminton	F4L	Trimester 2
+PA140 Self Defense	C3L	Trimester 2
+PA142 Weight Trng/Sprts & Fitness	C3L	Trimester 2
+PA142 Weight Trng/Sprts & Fitness	G5L	Trimester 2
+PA146 Pilates & Yoga	A2L	Trimester 2
+PA146 Pilates & Yoga	E2L	Trimester 2
+PA162 Rock Wall Climbing	D5L	Trimester 2
+PH353b Physics	C123L4	Trimester 2
+PH353b Physics	A12L34	Trimester 2
+PH353b Physics	G1235L	Trimester 2
+PH353b Physics	D1235L	Trimester 2
+PH353b Physics	E12L34	Trimester 2
+PH353b Physics	F1234L	Trimester 2
+PH401a Physics with Advanced Topics (*M*)	B1234L5	Trimester 2
+PH401a Physics with Advanced Topics (*M*)	C123L45	Trimester 2
+PH401a Physics with Advanced Topics (*M*)	E12L345	Trimester 2
+PH401a Physics with Advanced Topics (*M*)	A12L345	Trimester 2
+PH401b Physics/Adv Topics	G12345L	Trimester 2
+PH401b Physics/Adv Topics	C123L45	Trimester 2
+PH401b Physics/Adv Topics	A12L345	Trimester 2
+PH401b Physics/Adv Topics	E12L345	Trimester 2
+PH401b Physics/Adv Topics	D12345L	Trimester 2
+PH401b Physics/Adv Topics	F1234L5	Trimester 2
+PH402 Physics with Advanced Topics II	D12345L	Trimester 2
+PH402 Physics with Advanced Topics II	E12L345	Trimester 2
+PH402 Physics with Advanced Topics II	G12345L	Trimester 2
+PH402 Physics with Advanced Topics II	F1234L5	Trimester 2
+PH402 Physics with Advanced Topics II	B1234L5	Trimester 2
+PH406 AP Physics C:Mech (II)/E&M (I)	D1235L	Trimester 2
+PH406 AP Physics C:Mech (II)/E&M (I)	G1235L	Trimester 2
+PH418 Astrophysics	B1234L5	Trimester 2
+PH442 Research in Physics I (*R*)	F124L5G1245L	Trimester 2
+PH448 Research in Physics IV (*R*)	F124L5G1245L	Trimester 2
+RE110 Exploring MultiCultural Amer	A2	Trimester 2
+RE110 Exploring MultiCultural Amer	F3	Trimester 2
+RE110 Exploring MultiCultural Amer	B4	Trimester 2
+RE112 Public Speaking	A2	Trimester 2
+RE112 Public Speaking	B2	Trimester 2
+RE112 Public Speaking	C3	Trimester 2
+RE112 Public Speaking	E3	Trimester 2
+RE112 Public Speaking	F4	Trimester 2
+RE112 Public Speaking	G4	Trimester 2
+RE112 Public Speaking	D3	Trimester 2
+RE116 Marketing You	G3	Trimester 2
+RE116 Marketing You	B4	Trimester 2
+RE116 Marketing You	E3	Trimester 2
+RE116 Marketing You	A4	Trimester 2
+RE118 Excellence in Leadership	A4	Trimester 2
+RE118 Excellence in Leadership	B2	Trimester 2
+RE118 Excellence in Leadership	E2	Trimester 2
+RE118 Excellence in Leadership	F3	Trimester 2
+RE118 Excellence in Leadership	G3	Trimester 2
+RE118 Excellence in Leadership	C3	Trimester 2
+RE120 Financial Planning	D3	Trimester 2
+RE120 Financial Planning	F4	Trimester 2
+RE120 Financial Planning	G2	Trimester 2
+RE120 Financial Planning	B4	Trimester 2
+RE120 Financial Planning	E2	Trimester 2
+RE120 Financial Planning	A4	Trimester 2
+SE352 Emergency Care I	B134	Trimester 2
+SP305b Introductory Spanish	G1235	Trimester 2
+SP305b Introductory Spanish	E1234	Trimester 2
+SP305b Introductory Spanish	F1234	Trimester 2
+SP307b Intermediate Spanish	G1235	Trimester 2
+SP307b Intermediate Spanish	A2345	Trimester 2
+SP307b Intermediate Spanish	C1345	Trimester 2
+SP307b Intermediate Spanish	D1235	Trimester 2
+SP307b Intermediate Spanish	E1345	Trimester 2
+SP307b Intermediate Spanish	F1245	Trimester 2
+SP307b Intermediate Spanish	B1245	Trimester 2
+SP356 Advanced Spanish II	D1235	Trimester 2
+SP356 Advanced Spanish II	E1235	Trimester 2
+SP356 Advanced Spanish II	C1235	Trimester 2
+SP406 Rdgs in Spanish/Topics II	A12L4	Trimester 2
+SS360 Topics Hist/Social Sci	G135L	Trimester 2
+SS366 Topics in Psychology	G135L	Trimester 2
+SS372 Medical Sociology	B124L	Trimester 2
+SS404 AP Macroeconomics	G135L	Trimester 2
+SS404 AP Macroeconomics	D135L	Trimester 2
+SS404 AP Macroeconomics	B124L	Trimester 2
+SS406 Intro Psychology	C1345	Trimester 2
+VS122 Men's Basketball	VS	Trimester 2
+VS124 Women's Basketball	VS	Trimester 2
+VS126 Swimming	VS	Trimester 2
+VS128 Wrestling	VS	Trimester 2
+VS130 Cheerleading	VS	Trimester 2
+VS132 Indoor Track	VS	Trimester 2
+VS134 Diving	VS	Trimester 2
